@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
