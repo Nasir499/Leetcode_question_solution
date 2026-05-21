@@ -13,7 +13,7 @@ public:
             if(currIntrvl[1]>=ans[ans.size()-1][0]){
                 //curr.end>=last.start => overlapping
                 ans[ans.size()-1][0]=min(ans[ans.size()-1][0],currIntrvl[0]);
-                // ans[ans.size()-1][1]=min(ans[ans.size()-1][1],currIntrvl[1]);
+                // ans[ans.size()-1][1]=max(ans[ans.size()-1][1],currIntrvl[1]);
             }
             else{//not overlapping
                 ans.push_back(intervals[i]);
