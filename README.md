@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0048-rotate-image/) | Medium |
@@ -76,12 +77,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
