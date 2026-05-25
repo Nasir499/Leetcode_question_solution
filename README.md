@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
+| [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0386-lexicographical-numbers/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
