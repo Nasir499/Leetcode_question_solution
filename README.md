@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
