@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
