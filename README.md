@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
+| [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Sorting
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
+| [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
+| [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
