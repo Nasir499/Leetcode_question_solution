@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0551-student-attendance-record-i/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
