@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
