@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Trie
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0386-lexicographical-numbers/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
