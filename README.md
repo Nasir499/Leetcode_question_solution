@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
