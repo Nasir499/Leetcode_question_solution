@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
 ## Binary Search
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -242,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
