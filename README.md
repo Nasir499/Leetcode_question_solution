@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0856-score-of-parentheses/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -265,4 +269,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 <!---LeetCode Topics End-->
