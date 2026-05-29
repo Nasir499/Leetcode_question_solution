@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
