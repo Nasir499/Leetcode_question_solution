@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0071-simplify-path/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
