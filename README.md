@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0198-house-robber](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0198-house-robber/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
