@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
