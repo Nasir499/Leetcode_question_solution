@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0071-simplify-path/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0070-climbing-stairs/) | Easy |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0022-generate-parentheses/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
