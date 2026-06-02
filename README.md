@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
