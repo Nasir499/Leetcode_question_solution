@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0198-house-robber](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0198-house-robber/) | Medium |
