@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 ## Stack
