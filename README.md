@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
