@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Hash Table
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
+| [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
