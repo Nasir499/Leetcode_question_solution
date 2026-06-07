@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
