@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0229-majority-element-ii/) | Medium |
