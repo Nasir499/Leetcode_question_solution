@@ -205,11 +205,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0050-powx-n](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0063-unique-paths-ii/) | Medium |
