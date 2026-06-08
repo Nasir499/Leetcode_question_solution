@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0118-pascals-triangle/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0283-move-zeroes/) | Easy |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
