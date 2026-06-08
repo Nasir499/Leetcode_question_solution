@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1929-concatenation-of-array/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
+| [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
