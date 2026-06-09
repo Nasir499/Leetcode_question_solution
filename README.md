@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -508,13 +509,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0732-my-calendar-iii/) | Hard |
+| [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0732-my-calendar-iii/) | Hard |
+| [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
