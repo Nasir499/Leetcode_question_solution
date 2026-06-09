@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
+| [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1854-maximum-population-year](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1854-maximum-population-year/) | Easy |
@@ -490,4 +494,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0731-my-calendar-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 <!---LeetCode Topics End-->
