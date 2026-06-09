@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1854-maximum-population-year](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1854-maximum-population-year/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1854-maximum-population-year](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1854-maximum-population-year/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
