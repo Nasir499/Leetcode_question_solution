@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0136-single-number/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0338-counting-bits/) | Easy |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0090-subsets-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
