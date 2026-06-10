@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2769-find-the-maximum-achievable-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
