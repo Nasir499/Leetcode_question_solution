@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0273-integer-to-english-words/) | Hard |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0050-powx-n](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0050-powx-n/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0273-integer-to-english-words/) | Hard |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0290-word-pattern/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0551-student-attendance-record-i/) | Easy |
