@@ -12,17 +12,24 @@ public:
         //     i=idx;
         // }
         // return arr[0];
-        queue<int> q;
-        for(int i=1;i<=n;i++){
-            q.push(i);
-        }
-        while(q.size()>1){
-            for(int c=1;c<=k-1;c++){
-                q.push(q.front());
-                q.pop();
-            }
-            q.pop();
-        }
-        return q.front();
+
+
+        // queue<int> q;
+        // for(int i=1;i<=n;i++){
+        //     q.push(i);
+        // }
+        // while(q.size()>1){
+        //     for(int c=1;c<=k-1;c++){
+        //         q.push(q.front());
+        //         q.pop();
+        //     }
+        //     q.pop();
+        // }
+        // return q.front();
+
+        if(n==1) return 1;
+        int idx = findTheWinner(n-1,k);
+        idx =(idx+k-1)%n;
+        return idx+1;
     }
 };
