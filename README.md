@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0050-powx-n](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
