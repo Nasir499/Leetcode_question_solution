@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0090-subsets-ii/) | Medium |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
