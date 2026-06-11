@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0146-lru-cache](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0146-lru-cache](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0146-lru-cache/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0146-lru-cache/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0732-my-calendar-iii/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -624,4 +627,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
