@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0846-hand-of-straights](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
