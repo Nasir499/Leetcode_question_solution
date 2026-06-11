@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0991-broken-calculator/) | Medium |
+| [1323-maximum-69-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1328-break-a-palindrome/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0991-broken-calculator](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0991-broken-calculator/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1323-maximum-69-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
