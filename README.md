@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1854-maximum-population-year](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1854-maximum-population-year/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Dynamic Programming
