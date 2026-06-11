@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
