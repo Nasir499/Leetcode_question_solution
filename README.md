@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2769-find-the-maximum-achievable-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
