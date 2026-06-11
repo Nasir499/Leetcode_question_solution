@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
+| [1328-break-a-palindrome](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1328-break-a-palindrome/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0648-replace-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0648-replace-words/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [1328-break-a-palindrome](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1328-break-a-palindrome/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1859-sorting-the-sentence/) | Easy |
