@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0137-single-number-ii/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0338-counting-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
