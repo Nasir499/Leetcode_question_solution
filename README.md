@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0290-word-pattern/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0648-replace-words/) | Medium |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0290-word-pattern/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0648-replace-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0648-replace-words/) | Medium |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
