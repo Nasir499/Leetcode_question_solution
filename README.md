@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,4 +662,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1683-invalid-tweets/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 <!---LeetCode Topics End-->
