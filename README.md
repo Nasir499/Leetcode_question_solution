@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0991-broken-calculator](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1328-break-a-palindrome/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -651,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -703,4 +708,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
