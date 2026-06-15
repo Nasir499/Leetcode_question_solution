@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2536-increment-submatrices-by-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
