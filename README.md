@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2401-longest-nice-subarray/) | Medium |
