@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
