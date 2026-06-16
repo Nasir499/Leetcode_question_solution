@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0846-hand-of-straights](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
+| [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0948-bag-of-tokens/) | Medium |
+| [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
@@ -373,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0648-replace-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0648-replace-words/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
 | [1328-break-a-palindrome](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -438,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
