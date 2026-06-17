@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2536-increment-submatrices-by-one/) | Medium |
 ## Binary Search
