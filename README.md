@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0648-replace-words/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1328-break-a-palindrome](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [1048-longest-string-chain](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
