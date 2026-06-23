@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3355-zero-array-transformation-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
