@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0062-unique-paths/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
@@ -614,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -636,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
