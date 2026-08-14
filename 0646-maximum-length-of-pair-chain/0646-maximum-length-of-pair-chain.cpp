@@ -1,20 +1,16 @@
 class Solution {
 public:
-    int dp[1001][1001];
-    int solve(vector<vector<int>>& pairs,int p,int i){
-        if(i>=pairs.size()) return 0;
-        if(dp[p+1][i]!=-1) return dp[p+1][i];
-        int skip=solve(pairs,p,i+1);
-        int take=0;
-        if(p==-1 or pairs[i][0]>pairs[p][1]){
-            take = 1+solve(pairs,i,i+1);
+    int findLongestChain(vector<vector<int>>& nums) {
+       sort(begin(nums),end(nums));
+        int n = nums.size();
+        vector<int> dp(n,1);
+        for(int i=1;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i][0]>nums[j][1]){
+                    dp[i]=max(dp[i],dp[j]+1);
+                }
+            }
         }
-        return dp[p+1][i]=max(skip,take);
-    }
-    int findLongestChain(vector<vector<int>>& pairs) {
-        memset(dp,-1,sizeof(dp));
-        sort(pairs.begin(),pairs.end());
-        int n = pairs.size();
-        return solve(pairs,-1,0);
+        return *max_element(dp.begin(),dp.end());
     }
 };
