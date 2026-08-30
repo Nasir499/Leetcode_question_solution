@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
