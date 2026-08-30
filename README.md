@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1927-sum-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
