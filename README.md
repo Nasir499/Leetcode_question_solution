@@ -795,4 +795,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
