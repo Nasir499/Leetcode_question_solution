@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0402-remove-k-digits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0551-student-attendance-record-i/) | Easy |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0090-subsets-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
