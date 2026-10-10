@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -552,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -751,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1094-car-pooling/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Queue
