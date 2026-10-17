@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3355-zero-array-transformation-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
