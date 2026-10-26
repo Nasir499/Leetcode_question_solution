@@ -19,7 +19,7 @@ public:
         if(n<3) return {};
         res.clear();
         sort(nums.begin(),nums.end());
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-2;i++){
             if(i>0 and nums[i]==nums[i-1]) continue;
             int target = -nums[i];
             twoSum(nums,target,i+1,n-1);
