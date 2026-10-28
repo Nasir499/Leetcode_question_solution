@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Hash Table
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2536-increment-submatrices-by-one/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
