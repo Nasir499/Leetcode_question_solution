@@ -1,45 +1,36 @@
 class Solution {
 public:
-    vector<vector<string>> ans;
-
-    void solve(int row, int n, vector<string>& board,
-               unordered_set<int>& cols,
-               unordered_set<int>& diag1,
-               unordered_set<int>& diag2) {
-
-        if (row == n) {
-            ans.push_back(board);
+    vector<vector<string>> res;
+    int N;
+    bool isValid(vector<string> &board,int row,int col){
+        for(int i=row-1;i>=0;i--){
+            if(board[i][col]=='Q') return false;
+        }
+        for(int i=row-1,j=col-1;i>=0 and j>=0;i--,j--){
+             if(board[i][j]=='Q') return false;
+        }
+        for(int i=row-1,j=col+1;i>=0 and j<N;i--,j++){
+             if(board[i][j]=='Q') return false;
+        }
+        return true;
+    }
+    void solve(vector<string>& board,int row){
+        if(row>=N){
+            res.push_back(board);
             return;
         }
-
-        for (int col = 0; col < n; col++) {
-
-            if (cols.count(col) ||
-                diag1.count(row - col) ||
-                diag2.count(row + col))
-                continue;
-
-            board[row][col] = 'Q';
-            cols.insert(col);
-            diag1.insert(row - col);
-            diag2.insert(row + col);
-
-            solve(row + 1, n, board, cols, diag1, diag2);
-
-            board[row][col] = '.';
-            cols.erase(col);
-            diag1.erase(row - col);
-            diag2.erase(row + col);
+        for(int col=0;col<N;col++){
+            if(isValid(board,row,col)){
+                board[row][col]='Q';
+                solve(board,row+1);
+                board[row][col]='.';
+            }
         }
     }
-
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> board(n, string(n, '.'));
-
-        unordered_set<int> cols, diag1, diag2;
-
-        solve(0, n, board, cols, diag1, diag2);
-
-        return ans;
+        N=n;
+        vector<string> board(n,string(n,'.'));
+        solve(board,0);
+        return res;
     }
 };
