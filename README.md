@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1402-reducing-dishes/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -741,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -749,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -769,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0146-lru-cache/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0732-my-calendar-iii/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -835,4 +842,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1254-number-of-closed-islands/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 <!---LeetCode Topics End-->
