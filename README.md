@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-process-string-with-special-operations-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -628,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -714,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -733,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -747,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
