@@ -856,4 +856,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Nasir499/Leetcode_question_solution/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
