@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1871-jump-game-vii](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir499/Leetcode_question_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/Nasir499/Leetcode_question_solution/tree/main/2536-increment-submatrices-by-one/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir499/Leetcode_question_solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
